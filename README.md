@@ -5,6 +5,6 @@ Source Code for McKinsey Analytics Online Hackathon
 
 ### TODO
 How can I improve the performance?
-1. Try data imputation with kNN or MICE
+1. ~~Try data imputation with kNN or MICE~~(done)
 2. Adjust resample method
 3. Try another model (XGBoost, Random Forest etc.)
